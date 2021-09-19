@@ -1,2 +1,2 @@
-# .github
+# BazaarNXT
 📦 BazaarNXT profile README
